@@ -1,4 +1,4 @@
-## App Setup
+## Netflix Clone Setup
 
 ```
 git clone https://github.com/wawanneutron/netflix-clone.git
