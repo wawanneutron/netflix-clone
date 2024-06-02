@@ -1,3 +1,11 @@
+## App Setup
+
+```
+git clone https://github.com/John-Weeks-Dev/netflix-clone.git
+npm i
+npm run dev
+```
+
 # Image App
 
 <img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/220828412-0f8da047-7130-45b7-93ef-7f3ed6dd03dc.png">
